@@ -22,13 +22,20 @@ This sample app can be opened in _Project IDX_, or run in your local dev environ
    - Wait for the import process to complete
    - Open the IDX Panel and click "Authenticate" with the Gemini API integration. 
    - Once authenticated, click to get a key which will be copied to your keyboard.
-   - Add the key to the env variable section in `.idx/dev.nix`.
 
 1. Open a new terminal window:
    - Open the command palette (CTRL/CMD-SHIFT-P)
    - Begin typing **terminal**
    - Select **Terminal: Create New Terminal**
-   - Run `go run .`
+
+1. Set the API Key in the `API_KEY` environment varaible
+    - `export API_KEY=<your_api_key>`
+
+1. Compile and run the program:
+   - `go run .`
+
+1. When asked "What do you want to dream about?", answer with something fun.
+   - For example, type: `I want to dream about unicode.`
 
 ## Local dev environment
 
@@ -37,9 +44,6 @@ This sample app can be opened in _Project IDX_, or run in your local dev environ
 1. Verify that Go 1.22 or later is installed:
    - Verify version with `go version`
    - In needed, install Go, see: https://go.dev/doc/install
-
-
-## Run the sample
 
 1. Get a Gemini API key
     - Launch Google AI Studio: https://aistudio.google.com/
