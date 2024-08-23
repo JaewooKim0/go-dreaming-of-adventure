@@ -1,4 +1,4 @@
-# Go dreaming of adventure sample
+# Go dreaming of adventure
 
 A developer sample written in Go that demonstrates Gemini's creative writing
 abilities. With user input, Gemini writes a novella one section at a time.
@@ -46,7 +46,7 @@ This app can be opened in _Project IDX_, or run in your local dev environment.
 
 1. Follow the steps below to run the sample
 
-## Run the sample
+## Run the app
 
 1. Set the API Key in the `API_KEY` environment varaible: `export API_KEY=<your_api_key>`
 
