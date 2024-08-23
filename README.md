@@ -30,7 +30,7 @@ This app can be opened in _Project IDX_, or run in your local dev environment.
    - Begin typing **terminal**
    - Select **Terminal: Create New Terminal**
 
-1. Follow the steps below to run the sample
+1. Follow the steps below to run the app.
 
 ## Local dev environment
 
@@ -44,7 +44,7 @@ This app can be opened in _Project IDX_, or run in your local dev environment.
     - Launch Google AI Studio: https://aistudio.google.com/
     - Click **Get API Key**
 
-1. Follow the steps below to run the sample
+1. Follow the steps below to run the app.
 
 ## Run the app
 
