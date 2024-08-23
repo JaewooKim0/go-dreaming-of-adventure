@@ -19,7 +19,7 @@ This app can be opened in _Project IDX_, or run in your local dev environment.
 
 1. Open this repo in Project IDX:
    - [Open in Project IDX](https://idx.google.com/import?url=https://github.com/JaewooKim0/go-dreaming-of-adventure)
-   - Wait for the import process to complete
+   - Wait for the import process to complete.
 
 1. Get a Gemini API key:
    - Open the IDX Panel and click "Authenticate" with the Gemini API integration. 
